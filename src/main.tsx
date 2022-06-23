@@ -24,7 +24,7 @@ const Auth = () => (
   <div className="tw-w-full tw-flex tw-flex-col tw-p-12 tw-items-center">
     <img
       className="tw-w-64 tw-mb-12"
-      src="ConnexxionByLynxspringLogo-navbar.png"
+      src="https://dev-cd.energyconnexxion.com/connexxion/static/images/ConnexxionByLynxspringLogo-navbar.png"
     />
     <Authenticator />
   </div>
